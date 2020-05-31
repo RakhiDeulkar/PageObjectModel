@@ -79,4 +79,5 @@ public class ContactsPageTest extends TestBase {
 	public void tearDown() {
 		 driver.quit();
 	}
+	
 }

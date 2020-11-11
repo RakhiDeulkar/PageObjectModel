@@ -17,11 +17,6 @@ public class LoginPageTest extends TestBase{
 	public LoginPageTest() {
 		super();
 	}
-	//adding comment to create new branch from master
-
-	//,my branch code
-
-	//master branch comment
 
 	@BeforeMethod
 	public void setUp() {
